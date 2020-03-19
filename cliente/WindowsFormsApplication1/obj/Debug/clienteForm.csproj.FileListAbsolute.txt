@@ -1,0 +1,9 @@
+E:\SO\0-SO-Ejercicio-Guia\cliente\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\SO\0-SO-Ejercicio-Guia\cliente\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\SO\0-SO-Ejercicio-Guia\cliente\WindowsFormsApplication1\obj\Debug\clienteForm.csprojAssemblyReference.cache
+E:\SO\0-SO-Ejercicio-Guia\cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\SO\0-SO-Ejercicio-Guia\cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\SO\0-SO-Ejercicio-Guia\cliente\WindowsFormsApplication1\obj\Debug\clienteForm.csproj.GenerateResource.cache
+E:\SO\0-SO-Ejercicio-Guia\cliente\WindowsFormsApplication1\obj\Debug\clienteForm.csproj.CoreCompileInputs.cache
+E:\SO\0-SO-Ejercicio-Guia\cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\SO\0-SO-Ejercicio-Guia\cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
